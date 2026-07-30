@@ -63,3 +63,6 @@ The first thing to do is create a new Python environment. You can use Anaconda t
 >pip uninstall matplotlib numpy
 >pip install matplotlib numpy==2.4.6
 >```
+
+
+<!-- TODO: add basic instructions to use OmniCloudMask [#1](https://github.com/kcsumesh25/cloud_masking/issues/1) @kcsumesh25 -->
