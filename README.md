@@ -56,4 +56,4 @@ The first thing to do is create a new Python environment. You can use Anaconda t
 > If you have an existing environment with Python > 3.9, you can install OmniCloudMask in it. This can save some storage space in your computer. For example, OmniCloudMask can be installed in the rio environment that we widely use for vegetation monitoring projects.
 > - It should be noted that installing any new package in the existing environment can sometimes update the version (upgrade/downgrade) of existing packages that are already installed in that particular environment. This can sometimes create problems such as version conflict issues and scripts throwing error out of nowhere due to package version change. 
 
->There are several free (and open source) IDE that can be used for Python scripting, such as Spyder, VS Code, PyCharm Community Edition and Eclipse.
+>There are several free (and open source) IDE that can be used for Python scripting, such as Spyder, VS Code, and PyCharm Community Edition.
