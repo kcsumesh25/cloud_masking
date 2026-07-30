@@ -65,4 +65,4 @@ The first thing to do is create a new Python environment. You can use Anaconda t
 >```
 
 
-<!-- TODO: add basic instructions to use OmniCloudMask [#1](https://github.com/kcsumesh25/cloud_masking/issues/1) @kcsumesh25 -->
+<!-- TODO: add basic instructions to use OmniCloudMask @kcsumesh25 look at [#1](https://github.com/kcsumesh25/cloud_masking/issues/1) -->
