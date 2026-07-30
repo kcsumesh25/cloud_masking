@@ -41,7 +41,7 @@ The first thing to do is create a new Python environment. You can use Anaconda t
     pip install six numpy matplotlib pandas plotly scipy rasterio jupyterlab
     conda install -c conda-forge gdal
     ```
-- Go to [PyTorch installation page](https://pytorch.org/get-started/locally/) and install torch with CUDA support. Select the appropriate compute platform that matches with you compute specs.
+- Go to [PyTorch installation page](https://pytorch.org/get-started/locally/) and install torch with CUDA support. Select the appropriate compute platform that matches with you compute specs. Use `nvidia-smi` command in the Terminal to check info about GPU and CUDA version available in your machine.
     ![PyTorch Installation Guide](./assets/pytorch_installation.png)
     ```bash
     pip install torch torchvision --index-url https://download.pytorch.org/whl/cu132
