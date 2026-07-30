@@ -59,3 +59,7 @@ The first thing to do is create a new Python environment. You can use Anaconda t
 >There are several free (and open source) IDE that can be used for Python scripting, such as Spyder, VS Code,  PyCharm Community Edition and Eclipse.
 
 >If the kernel crashes when plotting the image, uninstall matplotlib and numpy packages and re-install them. If the kernel keeps on crashing even after re-installing the packages, please chat with Sumesh.
+>```bash
+>pip uninstall matplotlib numpy
+>pip install matplotlib numpy==2.4.6
+>```
